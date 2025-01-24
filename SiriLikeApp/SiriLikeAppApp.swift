@@ -11,7 +11,7 @@ import SwiftUI
 struct SiriLikeAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DefaultView()
         }
     }
 }
